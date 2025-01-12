@@ -1,1 +1,1 @@
-This game is ran using P5.js you can download here https://p5js.org/
+This game is ran using Brackets editor you can download here https://brackets.io/ or you can use pheonix the newer version https://phcode.io/#/home
